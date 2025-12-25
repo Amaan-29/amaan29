@@ -27,6 +27,8 @@ class Bucket{
 
 }
 class MyHashSet {
+
+    //use a prime number for bucket size
     int bucketSize=769;
     Bucket[] buckets;
 
