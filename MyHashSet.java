@@ -1,5 +1,4 @@
-package amaan29;
-
+import java.util.LinkedList;
 import java.util.List;
 
 class Bucket{
